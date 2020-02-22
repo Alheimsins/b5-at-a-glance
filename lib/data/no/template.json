@@ -1,0 +1,27 @@
+{
+  "A": {
+    "high": "Ditt høye resultat på medmenneskelighet tyder på en utpreget interesse for andres behov og deres ve og vel. Du er hyggelig, sympatisk og samarbeidsvillig.",
+    "neutral": "Ditt resultat på medmenneskelighet er gjennomsnittlig, noe som tyder på at du er noe opptatt av andres behov, men generelt lite villig til å ofre deg for andre.",
+    "low": "Ditt resultat på medmenneskelighet er lavt, noe som tyder på at du er mindre opptatt av andres behov enn dine egne. Folk ser deg som tøff, kritisk og kompromissløs."
+  },
+  "C": {
+    "high": "Ditt resultat på planmessighet er høyt. Dette betyr at du setter deg klare mål og følger dem fast. Andre ser på deg som pålitelig og hardt-arbeidende.",
+    "neutral": "Ditt resultat på planmessighet er gjennomsnittlig. Dette betyr at du er ganske pålitelig, organisert og har kontroll på deg selv.",
+    "low": "Ditt resultat på planmessighet er lavt, noe som tyder på at du liker å leve i øyeblikket og gjøre det som føles bra her og nå. Arbeidet ditt er ofte unøyaktig og dårlig organisert."
+  },
+  "E": {
+    "high": "Ditt resultat på ekstroversjon er høyt, noe som tyder på at du er sosial, utadvendt, energisk og livlig. Du foretrekker å være med andre mesteparten av tiden.",
+    "neutral": "Ditt resultat på ekstroversjon er gjennomsnittlig, noe som tyder på at du verken foretrekker å være alene eller en godmodig pratemaker. Du liker å være med andre, samtidig som du også setter pris på alene-tid.",
+    "low": "Ditt resultat på ekstroversjon er lavt, noe som tyder på at du er introvert, reservert og stille. Du liker å være alene og aktiviteter du kan gjøre for deg selv. Den sosiale delen av livet ditt omfatter noen få nære venner."
+  },
+  "N": {
+    "high": "Ditt resultat på nevrotisisme er høyt, noe som tyder på at du blir lett opprørt, selv i situasjoner som de fleste ser på som noe som man kan forvente av livsutfordringer. Andre ser på deg som følsom og sensibel.",
+    "neutral": "Din skåre på nevrotisisme er gjennomsnittlig, noe som indikerer at nivået av emosjonell reaktivitet er typisk for den generelle befolkningen. Stressende og frustrerende situasjoner er noe oppskakende for deg, men du er vanligvis i stand til å komme over disse følelsene og takle slike situasjoner.",
+    "low": "Ditt resultat på nevrotisisme er lavt, noe som tyder på at du er usedvanlig rolig, fattet og holder på sinnsroen. Du reagerer ikke med intense følelser, selv på situasjoner som de fleste mennesker vil oppfatte som stressende."
+  },
+  "O": {
+    "high": "Din skåre på åpenhet for erfaringer er høy, noe som tyder på at du liker nye ting, variasjon og forandring. Du er nysgjerrig, fantasifull og kreativ.",
+    "neutral": "Din skåre på åpenhet for erfaringer er gjennomsnittlig, noe som tyder på at du liker tradisjoner, men er villig til å prøve nye ting. Tenkningen din er verken enkel eller kompleks. For andre framstår du som en velutdannet person, men ikke en intellektuell.",
+    "low": "Din skåre på åpenhet for erfaringer er lav, noe som tyder på at du liker å tenke enkelt og rett-fram begrepsmessig. Andre beskriver deg som jordnær, praktisk og konservativ."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "@alheimsins/b5-at-a-glance",
+  "description": "Short description of your big five score",
+  "version": "1.0.0",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "lib/",
+    "index.js"
+  ],
+  "author": {
+    "name": "Geir Gåsodden",
+    "email": "geir.gasodden@pythonia.no",
+    "url": "https://github.com/zrrrzzt"
+  },
+  "contributors": [
+    {
+      "name": "Jonas Enge",
+      "email": "jonas.enge@gmail.com",
+      "url": "https://github.com/maccyber"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=12.15.0"
+  },
+  "scripts": {
+    "test": "standard && npm audit && ava",
+    "test-offline": "standard && ava",
+    "coverage": "nyc ava",
+    "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
+    "standard-fix": "standard --fix",
+    "refresh": "rm -rf node_modules && rm package-lock.json && npm install"
+  },
+  "keywords": [
+    "bigfive",
+    "personality",
+    "result"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alheimsins/b5-at-a-glance.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alheimsins/b5-at-a-glance/issues"
+  },
+  "homepage": "https://github.com/alheimsins/b5-at-a-glance#readme",
+  "devDependencies": {
+    "ava": "3.3.0",
+    "coveralls": "3.0.9",
+    "husky": "4.2.3",
+    "nyc": "15.0.0",
+    "standard": "14.3.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm test"
+    }
+  }
+}
