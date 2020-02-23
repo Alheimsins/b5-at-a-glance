@@ -2,12 +2,7 @@ const test = require('ava')
 const { readdir } = require('fs').promises
 const languagePath = 'lib/data'
 const isFolder = item => item !== 'languages.json'
-const expectedFiles = ['agreeableness.js',
-  'conscientiousness.js',
-  'extraversion.js',
-  'index.js',
-  'neuroticism.js',
-  'openness_to_experience.js']
+const expectedFiles = ['template.json']
 
 test('it has all files in language folder', async t => {
   const langs = await readdir(languagePath)
