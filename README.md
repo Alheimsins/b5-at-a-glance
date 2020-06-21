@@ -48,15 +48,15 @@ console.log(summary(data))
 
 ```
 
-# License
-
-[MIT](LICENSE)
-
 # Related
 
 - [bigfive-web](https://github.com/rubynor/bigfive-web) Website for five factor model of personality
 - [bigfive-calculate-score](https://github.com/Alheimsins/bigfive-calculate-score) module for calculating score
 - [b5-result-text](https://github.com/Alheimsins/b5-result-text) module for translating score to text
+
+# License
+
+[MIT](LICENSE)
 
 # About
 
